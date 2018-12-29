@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(6, 168, 223);
+  }
+
+.PIC {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 400px;
+}
